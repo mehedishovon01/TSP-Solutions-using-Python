@@ -1,0 +1,13 @@
+Optimized Route:
+City Bank Narayanganj (8)
+Uttara Branch (1)
+City Bank Beside Uttara Diagnostic (4)
+City Bank Shaheed Sarani (7)
+City Bank Airport (2)
+City Bank Nikunja (3)
+City Bank Le Meridien (6)
+City Bank JFP (10)
+City Bank Mirpur 12 (5)
+City Bank Pallabi (9)
+
+Minimum Distance: 18.23 kilometers
