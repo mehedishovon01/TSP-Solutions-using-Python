@@ -3,6 +3,7 @@ charset-normalizer==3.3.2
 geographiclib==2.0
 geopy==2.4.1
 googlemaps==4.10.0
+haversine==2.8.0
 idna==3.6
 requests==2.31.0
 urllib3==2.1.0
